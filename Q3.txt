@@ -1,0 +1,10 @@
+—¿Cómo es que se instalan paquetes con yarn?
+    yarn add [package]
+    yarn add [package]@[version]
+    yarn add [package] --dev
+
+—¿Cómo es que se borran paquetes con yarn?
+    yarn remove [package]
+
+—¿Hay algún equivalente en yarn que haga lo mismo que npm init?
+    yarn init

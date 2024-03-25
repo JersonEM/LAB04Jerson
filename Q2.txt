@@ -1,0 +1,2 @@
+la funcion de "npm init" es la de instalar
+un paquete inicial de node para poder empezar a crear el proyecto
